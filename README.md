@@ -18,7 +18,7 @@
 
 - 📝 I regularly write algorithms on [Leetcode](https://leetcode.com/tejasundeep)
 
-- 💬 Ask me about **HTML, CSS, JS, Bootstap, JQuery, Ajax, ReactJS, ExpressJS, NodeJS, MongoDB, MYSQL, PHP, Python, Flask, Django**
+- 💬 Ask me about **HTML, CSS, JS, Bootstap, JQuery, Ajax, ReactJS, PHP, Python, Flask, Django, MYSQL**
 
 - 📫 How to reach me **tsreddykarri@gmail.com**
 
