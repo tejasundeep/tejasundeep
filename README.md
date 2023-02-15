@@ -26,6 +26,6 @@
 
 - ⚡ Languages: I speak 3 languages (English, Hindi, Telugu)
 
-<br><br><h3 align="left">Support:</h3>
+<h3 align="left">Support:</h3>
 <p align="left"><a href="https://www.buymeacoffee.com/tejasundeep"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="techieteja" /></a></p>
 <br>
