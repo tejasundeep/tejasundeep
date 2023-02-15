@@ -10,7 +10,7 @@
 </p>
 <h3 align="left">About:</h3>
 
-- 🔭 Ex-Developer at [Facebook, Inc](https://www.facebook.com)
+- 🔭 Exploring Artificial Intelligence, Machine Learning & Data Science
 
 - 🌱 I’m currently teaching **Python & Machine Learning**
 
