@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Proficient in: HTML5, CSS3, JavaScript<br>⚛️ Experienced in: React.js, Next.js, Vue.js and Nuxt.js<br>🧠 Understanding of: NodeJS, PHP, Python, MYSQL & Bun.js, Deno.js and Vite<br>🔄 Knowledgeable in state management with: Redux Toolkit<br>🌐 Capable of: API integration, Micro Services<br>📱 Expertise in: Responsive Design & Mobile Optimization<br>🛠️ Proficient with version control using: Git & GitHub<br>🎨 Familiarity with CSS Preprocessors like: SASS, LESS<br>🛠️ Experienced with Build Tools like: Webpack<br>🎨 Understanding of: UI/UX Design Principles & Prototyping<br>🚀 Ensures: Cross-browser compatibility & performance optimization<br>⚙️ Familiar with: Agile Methodologies<br> 👥 Skilled in: Team Leadership & Mentorship<br>🐳 Also skilled in: Docker, CI/CD Pipelines, Nixpacks<br>🤖 Expert at: Build Agentic Applications and N8N Workflows</p>
+<p align="left">💻 Proficient in: HTML5, CSS3, JavaScript<br>⚛️ Experienced in: React.js, Next.js, Vue.js & Nuxt.js<br>🧠 Understanding of: NodeJS, PHP, Python, MYSQL & Bun.js, Deno.js & Vite<br>🔄 Knowledgeable in state management with: Redux Toolkit<br>🌐 Capable of: API integration, Micro Services<br>📱 Expertise in: Responsive Design & Mobile Optimization<br>🛠️ Proficient with version control using: Git & GitHub<br>🎨 Familiarity with CSS Preprocessors like: SASS, LESS<br>🛠️ Experienced with Build Tools like: Webpack<br>🎨 Understanding of: UI/UX Design Principles & Prototyping<br>🚀 Ensures: Cross-browser compatibility & performance optimization<br>⚙️ Familiar with: Azure Devops & Agile Methodologies<br> 👥 Skilled in: Team Leadership & Mentorship<br>🐳 Also skilled in: Docker, CI/CD Pipelines, Nixpacks<br>🤖 Expert at: Building AI Agents and N8N workflows</p>
 
 ###
 
@@ -18,33 +18,33 @@
 
 ###
 
-<h3 align="left">Disease Finder</h3>
-<p align="left">Demo: https://disease-finder.vercel.app</p>
-<p align="left">Description: Find disease based on symptoms</p>
+<h3 align="left">Movepe</h3>
+<p align="left">Website: https://www.movepe.com</p>
+<p align="left">Description: Movepe was born from a simple yet powerful idea moving should be stress-free, transparent, and reliable. We recognized the relatime challenges people has faced relocating or moving their goods. Movepe can help users from finding trustworthy movers to dealing with hidden costs and unreliable service providers.</p>
 
 ###
 
-<h3 align="left">Simple KYC</h3>
-<p align="left">Demo: https://simple-kyc.vercel.app</p>
-<p align="left">Description: Verify kyc, based on ocr and face recognition and apisetu api</p>
+<h3 align="left">Movers</h3>
+<p align="left">Website: https://www.movers.com</p>
+<p align="left">Description: A packers and movers aggregator</p>
 
 ###
 
-<h3 align="left">Simple Blog</h3>
-<p align="left">Demo: https://simple-blog-teja.vercel.app</p>
-<p align="left">Description: A blog built on nextjs support server side rendering and user can create, edit and delete post from admin panel</p>
+<h3 align="left">Cryptoforce</h3>
+<p align="left">Website: https://www.cryptorce.in</p>
+<p align="left">Description: Cryptoforce is the chosen platform for millions of Indians who’re looking to fulfill their dreams of financial independence by unlocking the potential of cryptocurrency in the palm of their hands.</p>
 
 ###
 
-<h3 align="left">Simple Social</h3>
-<p align="left">Demo: https://simple-social-two.vercel.app</p>
-<p align="left">Description: Simple social network with newsfeed. Able to create, update and delete post in realtime</p>
+<h3 align="left">Rezor</h3>
+<p align="left">Website: https://www.rezor.org</p>
+<p align="left">Description: The next generation Cross-Chain DeFi</p>
 
 ###
 
-<h3 align="left">Simple Canva Clone</h3>
-<p align="left">Demo: https://simple-canva-clone.vercel.app</p>
-<p align="left">Description: A simple canva clone where user can play with text and images and finally export in desired quality</p>
+<h3 align="left">Profile Pilot</h3>
+<p align="left">Demo: https://www.profilepilot.in</p>
+<p align="left">Description: N8N work flow marketplace</p>
 
 ###
 
