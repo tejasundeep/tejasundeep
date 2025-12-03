@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Teja Sundeep, a seasoned senior software engineer with 8 years of expertise in web development. I excel in designing and developing user-friendly interfaces using cutting-edge technologies, ensuring project success.</p>
+<p align="left">I am Teja Sundeep, a seasoned senior software engineer with 12 years of expertise in web development. I excel in designing and developing user-friendly interfaces using cutting-edge technologies, ensuring project success.</p>
 
 ###
 
