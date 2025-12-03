@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Proficient in: HTML5, CSS3, JavaScript<br>⚛️ Experienced in: React.js, Next.js<br>🧠 Understanding of: NodeJS, PHP, Python, MYSQL<br>🔄 Knowledgeable in state management with: Redux<br>🌐 Capable of: API integration<br>📱 Expertise in: Responsive Design & Mobile Optimization<br>🛠️ Proficient with version control using: Git & GitHub<br>🎨 Familiarity with CSS Preprocessors like: SASS, LESS<br>🛠️ Experienced with Build Tools like: Webpack<br>🎨 Understanding of: UI/UX Design Principles & Prototyping<br>🚀 Ensures: Cross-browser compatibility & performance optimization<br>⚙️ Familiar with: Agile Methodologies<br> 👥 Skilled in: Team Leadership & Mentorship<br>🐳 Also skilled in: Docker, CI/CD Pipelines<br>🤖 Learning: Machine Learning & Pega</p>
+<p align="left">💻 Proficient in: HTML5, CSS3, JavaScript<br>⚛️ Experienced in: React.js, Next.js, Vue.js, Nuxt.js, Bun.js, Deno.js and Vite<br>🧠 Understanding of: NodeJS, PHP, Python, MYSQL<br>🔄 Knowledgeable in state management with: Redux Toolkit<br>🌐 Capable of: API integration, Micro Services<br>📱 Expertise in: Responsive Design & Mobile Optimization<br>🛠️ Proficient with version control using: Git & GitHub<br>🎨 Familiarity with CSS Preprocessors like: SASS, LESS<br>🛠️ Experienced with Build Tools like: Webpack<br>🎨 Understanding of: UI/UX Design Principles & Prototyping<br>🚀 Ensures: Cross-browser compatibility & performance optimization<br>⚙️ Familiar with: Agile Methodologies<br> 👥 Skilled in: Team Leadership & Mentorship<br>🐳 Also skilled in: Docker, CI/CD Pipelines, Nixpacks<br>🤖 Expert at: Build Agentic Applications and N8N Workflows</p>
 
 ###
 
