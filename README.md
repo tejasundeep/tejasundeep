@@ -1,121 +1,223 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Teja Sundeep</h1>
+<h3 align="center">Founder • Senior Software Engineer • AI Product Builder • Growth Marketer</h3>
 
-###
+<p align="center">
+Building scalable products, AI automations, and growth systems from idea to execution 🚀
+</p>
 
-<p align="left">I am Teja Sundeep, a seasoned senior software engineer with 12 years of expertise in web development. I excel in designing and developing user-friendly interfaces using cutting-edge technologies, ensuring project success.</p>
-
-###
-
-<h2 align="left">About</h2>
-
-###
-
-<p align="left">💻 Proficient in: HTML5, CSS3, JavaScript, Jquery, AJAX, Bootstrap, Tailwind<br>⚛️ Experienced in: React.js, Next.js, Vue.js & Nuxt.js<br>🧠 Understanding of: NodeJS, PHP, Python, ASP.NET, MYSQL & Bun.js, Deno.js & Vite<br>🔄 Knowledgeable in state management with: Redux Toolkit<br>🌐 Capable of: API integration, Micro Services<br>📱 Expertise in: Responsive Design & Mobile Optimization<br>🛠️ Proficient with version control using: Git & GitHub<br>🎨 Familiarity with CSS Preprocessors like: SASS, LESS<br>🛠️ Experienced with Build Tools like: Webpack<br>🎨 Understanding of: UI/UX Design Principles & Prototyping<br>🚀 Ensures: Cross-browser compatibility & performance optimization<br>⚙️ Familiar with: Azure Devops & Agile Methodologies<br> 👥 Skilled in: Team Leadership & Mentorship<br>🐳 Also skilled in: Docker, CI/CD Pipelines, Nixpacks<br>🤖 Expert at: Building AI Agents and N8N workflows<br>⚡ IDE's: VS Code, Cursor, Windsurf, Qoder, Anti Gravity, Bolt, Lovable, Replit and much more...<br></p>
-
-###
-
-<h2 align="left">Projects</h2>
-
-###
-
-<h3 align="left">Movepe</h3>
-<p align="left">Website: https://www.movepe.com</p>
-<p align="left">Description: Movepe was born from a simple yet powerful idea moving should be stress-free, transparent, and reliable. We recognized the relatime challenges people has faced relocating or moving their goods. Movepe can help users from finding trustworthy movers to dealing with hidden costs and unreliable service providers.</p>
-
-###
-
-<h3 align="left">Movers</h3>
-<p align="left">Website: https://www.movers.com</p>
-<p align="left">Description: A packers and movers aggregator</p>
-
-###
-
-<h3 align="left">Cryptoforce</h3>
-<p align="left">Website: https://www.cryptorce.in</p>
-<p align="left">Description: Cryptoforce is the chosen platform for millions of Indians who’re looking to fulfill their dreams of financial independence by unlocking the potential of cryptocurrency in the palm of their hands.</p>
-
-###
-
-<h3 align="left">Rezor</h3>
-<p align="left">Website: https://www.rezor.org</p>
-<p align="left">Description: The next generation Cross-Chain DeFi</p>
-
-###
-
-<h3 align="left">Profile Pilot</h3>
-<p align="left">Demo: https://www.profilepilot.in</p>
-<p align="left">Description: N8N work flow marketplace</p>
-<b align="left">and many more...</b>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
-</div>
-
-###
-
-<h2 align="left">Follow me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/iamtejasundeep" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+<p align="center">
+  <a href="https://github.com/tejasundeep">
+    <img src="https://img.shields.io/badge/GitHub-tejasundeep-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.x.com/tejasundeep" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://linkedin.com/in/tejasundeep">
+    <img src="https://img.shields.io/badge/LinkedIn-Teja%20Sundeep-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.youtube.com/@tejasundeep" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="mailto:tsreddykarri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/tejasundeep" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/iamtejasundeep" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://whatsapp.com/channel/0029Va4SZUv1XquW6kJxAU2x" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejasundeep&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+
+Senior Software Engineer with **11+ years of experience** building scalable digital products across logistics, crypto, healthcare, and enterprise platforms.
+
+I combine **engineering + AI + product strategy + growth marketing** to build businesses end-to-end.
+
+- 🏗 Founder of **Movepe**
+- 🤖 Building **AI agents, automations, LLM applications**
+- 📈 Growth-focused with **SEO, Paid Ads, CRO, acquisition systems**
+- ⚡ Product builder from **idea → MVP → scale**
+- 👥 Engineering leadership & product execution
+- 🌍 Based in **Hyderabad, India**
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+</p>
+
+### Backend / Infra
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+</p>
+
+### AI / Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+</p>
+
+**AI Agents • Prompt Engineering • RAG • n8n • Workflow Automation • Voice AI • AI API Integrations • LLM Apps**
+
+---
+
+## 📈 Growth & Marketing
+
+**SEO • Google Ads • Meta Ads • PPC • CRO • Landing Page Optimization • Email Marketing • Affiliate Marketing • GA4 • GTM**
+
+---
+
+## 🏗 Featured Projects
+
+### 🚚 Movepe
+**B2B logistics marketplace built from scratch**
+
+- Product strategy
+- Engineering architecture
+- MVP development
+- Go-to-market execution
+
+🔗 https://movepe.com
+
+---
+
+### 🏠 Movers.com
+**Transport & relocation marketplace platform**
+
+Worked on large-scale logistics marketplace systems.
+
+🔗 https://movers.com
+
+---
+
+### ₿ Cryptoforce
+**Crypto exchange trading platform**
+
+Built:
+- Real-time dashboards
+- Trading interfaces
+- Wallet flows
+- Exchange systems
+
+---
+
+### 🤖 Jarvis
+**AI assistant framework in Python**
+
+Inspired by autonomous AI workflows.
+
+🔗 https://github.com/tejasundeep/jarvis
+
+---
+
+### 📈 Trade Lite
+**Crypto trading automation bot**
+
+Python-based algorithmic trading.
+
+🔗 https://github.com/tejasundeep/trade-lite
+
+---
+
+### 📊 MT4 Indicators
+**Custom MetaTrader 4 indicators**
+
+Trading automation + custom analytics.
+
+🔗 https://github.com/tejasundeep/mt4-indicators
+
+---
+
+### 🔄 n8n Automations
+**100+ automation workflow templates**
+
+AI workflows + business automations.
+
+🔗 https://github.com/tejasundeep/n8n-automations
+
+---
+
+## 💼 Experience
+
+### Founder — Movepe Transport Tech
+**Sep 2025 – Present**
+
+Built logistics marketplace from scratch.
+
+---
+
+### Senior Software Engineer — Excel Soft Services
+**Feb 2024 – Aug 2025**
+
+- Built shared component library
+- Reduced development time by ~35%
+- Delivered major features across teams
+
+---
+
+### Senior Software Engineer — Cryptoforce
+**Mar 2023 – Feb 2024**
+
+- Led frontend engineering
+- Built crypto exchange trading infrastructure
+- Improved performance by ~30%
+
+---
+
+### Senior Software Engineer — College of Medical Sciences
+**Nov 2019 – Jan 2023**
+
+Built full hospital management platform serving 500+ daily users.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejasundeep&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasundeep&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasundeep&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🛠 Tools I Use
+
+**VS Code • Cursor • Windsurf • Docker • GitHub • Azure DevOps • Webpack • Postman • Figma • Replit • Bolt • Lovable**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/tejasundeep">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://github.com/tejasundeep">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
+
+📧 tsreddykarri@gmail.com
+
+---
+
+<p align="center">
+⚡ Building products, AI systems, automations, and scalable businesses.
+</p>
